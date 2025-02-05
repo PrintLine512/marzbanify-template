@@ -48,11 +48,11 @@ Maximum minimalism: just the header and guide, nothing extra.
 
 1. Upload the file to the server.
 ```
-sudo wget -O /var/lib/marzban/templates/subscription/index.html https://raw.githubusercontent.com/dermv/marzbanify-template/main/index.html
+sudo wget -O /var/lib/marzban/templates/subscription/index.html https://raw.githubusercontent.com/printline512/marzbanify-template/main/index.html
 ```
 For mini version:
 ```
-sudo wget -O /var/lib/marzban/templates/subscription/index.html https://raw.githubusercontent.com/dermv/marzbanify-template/main/mini/index.html
+sudo wget -O /var/lib/marzban/templates/subscription/index.html https://raw.githubusercontent.com/printline512/marzbanify-template/main/mini/index.html
 ```
 2. Enter these commands to automatically specify the file path to the subscription page.
 ```
